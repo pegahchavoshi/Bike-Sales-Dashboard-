@@ -1,5 +1,5 @@
 # Bike-Sales-Dashboard-
-Analyzing Sales Trends and Patterns
+Analyzing Sales Trends and Patterns Using Microsoft Excel
 
 ### Introduction
 In this project, I created a comprehensive Bike Sales Dashboard using Microsoft Excel. The dashboard provided valuable insights into the sales of bikes based on various factors such as gender, income, age, and commute distance. By analyzing these trends and patterns, I gained a deeper understanding of our customers and made informed business decisions.
